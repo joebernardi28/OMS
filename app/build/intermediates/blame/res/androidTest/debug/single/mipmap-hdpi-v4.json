@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/JoeBernardi/Desktop/Immersed/MediaSurface_Plugin/app/build/intermediates/res/merged/androidTest/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/JoeBernardi/Desktop/Immersed/MediaSurface_Plugin/app/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/JoeBernardi/Desktop/Immersed/MediaSurface_Plugin/app/build/intermediates/res/merged/androidTest/debug/mipmap-hdpi-v4/ic_launcher_round.png",
+        "source": "/Users/JoeBernardi/Desktop/Immersed/MediaSurface_Plugin/app/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/ic_launcher_round.png"
+    }
+]

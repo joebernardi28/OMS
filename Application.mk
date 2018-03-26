@@ -1,0 +1,1 @@
+APP_BUILD_SCRIPT := /app/src/main/jni

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/JoeBernardi/Desktop/Immersed/MediaSurface_Plugin/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/JoeBernardi/Desktop/Immersed/MediaSurface_Plugin/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/JoeBernardi/Desktop/Immersed/MediaSurface_Plugin/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/JoeBernardi/Desktop/Immersed/MediaSurface_Plugin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
